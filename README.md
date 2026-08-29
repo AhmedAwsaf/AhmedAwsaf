@@ -8,7 +8,6 @@ and then go back and **make it faster.** 🔩✨
 ## 🚀 About Me
 
 - 🎓 **Education**: B.Sc. in Computer Science & Engineering, BRAC University (CGPA: 3.87 / 4.0 — Highest Distinction)
-- 💼 **Current Role**: Full-Stack Developer at Barobi Design & Founder of Mayhem Studio
 - 🌱 **Focus**: Data-driven operational systems, scalable backend architecture, and workflow optimization
 - 🏆 **Recent Win**: 2nd Runner-Up — BRACU IntraHacktive 1.0 Hackathon (2024)
 - ✨ **Interests**: Systems design, database optimization, and building tools that actually ship
