@@ -60,11 +60,11 @@ and then go back and **make it faster.** 🔩✨
 
 ## 📌 Featured Projects
 
-| Project | Tech | Links |
-|---|---|---|
+| Project  | Links |
+|---|---|
 | **Barobi Design** — E-commerce & Inventory Platform | [Live](https://www.barobidesign.com.bd) |
 | **MASROORS PLLC** — Landing Page & Admin Dashboard | [Live](https://www.masroors.com) |
-| **DYNAGO** — Dynamic REST API from Postgres to GO | [Live](https://www.masroors.com) |
+| **DYNAGO** — Dynamic REST API from Postgres to GO | [GitHub](https://github.com/AhmedAwsaf/DYNAGO) |
 | **BossClub** — IntraHacktive 1.0 (2nd Runner-Up) | [GitHub](https://github.com/AhmedAwsaf/BossClub_IntraHacktive_T13) |
 | **Cookbook** — Recipe Management App | [GitHub](https://github.com/AhmedAwsaf/CookBook) |
 | **MortGame** — Android Game | [GitHub](https://github.com/AhmedAwsaf/MortGAME) |
