@@ -1,9 +1,13 @@
-# Ahmed Awsaf
+[![Ahmed Awsaf banner](https://ahmedawsaf.github.io/personal-portfolio/content/readme-widgets/Banner.svg)](https://ahmedawsaf.github.io/personal-portfolio)
+
 ### ⚡ I build things that don't break. ⚡
 
 I design systems · squash bottlenecks · write clean code ·
 and then go back and **make it faster.** 🔩✨
 
+<a href="https://ahmedawsaf.github.io/personal-portfolio/">
+  <img src="https://ahmedawsaf.github.io/personal-portfolio/content/readme-widgets/checkout-my-site.svg" alt="Check out my site" height="42" />
+</a>
 
 ## 🚀 About Me
 
